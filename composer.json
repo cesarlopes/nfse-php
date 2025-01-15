@@ -1,0 +1,18 @@
+{
+    "name": "cesarlopes/nfse-php",
+    "description": "Biblioteca para emissão de NFSe em PHP",
+    "type": "library",
+    "license": "GPL-2.0",
+    "autoload": {
+        "psr-4": {
+            "Cesarlopes\\NFSePHP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cesar Lopes",
+            "email": "contato@cesarlopes.com"
+        }
+    ],
+    "require": {}
+}
