@@ -32,6 +32,11 @@ Uma biblioteca PHP para facilitar a geração e consulta de Nota Fiscal de Servi
 **Fase atual:** Planejamento  
 Este projeto está em seus estágios iniciais de desenvolvimento. Fique à vontade para acompanhar o progresso ou sugerir funcionalidades.
 
+## Apoie Este Projeto
+
+Se este projeto foi útil para você e você deseja apoiar o seu desenvolvimento, considere me oferecer um café! ☕  
+- [PayPal](https://www.paypal.com/donate/?hosted_button_id=TAYGFRDLJQH3W)
+- Pix: 6210c807-548e-4f39-a9de-ef53a8e7fb4a  
 ---
 
 _Feedbacks e sugestões são bem-vindos!_ 😊
