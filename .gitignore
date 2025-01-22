@@ -1,4 +1,7 @@
-# Ignorar certificados
+#Configurações do PHPStorm
+.idea/
+
+# Ignorar Pastas
 certificates/
 docs/
 example/
