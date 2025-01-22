@@ -52,7 +52,7 @@ class EmissaoService
         $xmlAssinado = '<?xml version="1.0" encoding="UTF-8"?>' . $xmlAssinado;
 
         //DEBUG
-        file_put_contents(__DIR__ . '/../../debug-xml-assinado.xml', $xmlAssinado);
+        //file_put_contents(__DIR__ . '/../../debug-xml-assinado.xml', $xmlAssinado);
 
         // 4) Compactar + base64
         $gzB64 = NfseHelper::compressBase64($xmlAssinado);
