@@ -1,1 +1,16 @@
+# Ignorar certificados
+certificates/
+docs/
+example/
+
+# Ignorar configurações sensíveis
+.env
+
+# Arquivos gerados pelo Composer
 /vendor/
+
+# Arquivos do sistema operacional
+*.DS_Store
+*.log
+Thumbs.db
+

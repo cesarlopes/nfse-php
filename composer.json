@@ -14,5 +14,8 @@
             "email": "contato@cesarlopes.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.2",
+        "nfephp-org/sped-common": "^5.1"
+    }
 }

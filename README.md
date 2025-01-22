@@ -2,6 +2,8 @@
 
 Uma biblioteca PHP para facilitar a geração e consulta de Nota Fiscal de Serviço Eletrônica (NFSe). Este projeto está em fase de planejamento.
 
+> **Créditos**: Este projeto foi **inspirado** pelo repositório [nfse-nacional](https://github.com/Rainzart/nfse-nacional), desenvolvido por [Rainzart](https://github.com/Rainzart).
+
 ## Recursos Planejados
 - Geração de NFSe.
 - Consulta de NFSe.
