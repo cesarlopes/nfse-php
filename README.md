@@ -35,6 +35,7 @@ Este projeto está em seus estágios iniciais de desenvolvimento. Fique à vonta
 ## Apoie Este Projeto
 
 Se este projeto foi útil para você e você deseja apoiar o seu desenvolvimento, considere me oferecer um café! ☕  
+- [Buy Me a Coffee](https://buymeacoffee.com/cesarlopes) 
 - [PayPal](https://www.paypal.com/donate/?hosted_button_id=TAYGFRDLJQH3W)
 - Pix: 6210c807-548e-4f39-a9de-ef53a8e7fb4a  
 ---
